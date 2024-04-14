@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Apple.md",
+                "file": "Ризық.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Food/Apple.md",
+                "file": "Ризық.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Food/Apple.md",
+                "file": "Ризық.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Food/Apple.md"
+                "file": "Ризық.md"
               }
             }
           }
@@ -149,7 +149,8 @@
   "active": "0ebd7bd17ec9a383",
   "lastOpenFiles": [
     "Food/Apple.md",
-    "Шүкіршілік.md",
+    "Ризық.md",
+    "Ризық.md",
     "Food"
   ]
 }
