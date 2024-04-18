@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ризық.md",
+                "file": "Food/Bread.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fb6427e5022b855",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ризық.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ризық.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ризық.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ebd7bd17ec9a383",
+  "active": "2fb6427e5022b855",
   "lastOpenFiles": [
+    "Food/Bread.md",
+    "Water.md",
     "Food/Apple.md",
-    "Ризық.md",
     "Ризық.md",
     "Food"
   ]
