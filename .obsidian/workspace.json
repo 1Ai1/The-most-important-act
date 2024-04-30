@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ebd7bd17ec9a383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Food/Bread.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "358a07dd5e9e3742",
+            "id": "2fb6427e5022b855",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2fb6427e5022b855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Object template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Object template.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Object template.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Object template.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -173,10 +148,14 @@
   },
   "active": "2fb6427e5022b855",
   "lastOpenFiles": [
+    "assets/circle graph.png",
+    "Readme.md",
+    "assets/circle graph.png",
+    "assets",
+    "assets/Maslow's hierarchy of needs.png",
+    "Template/Object template.md",
     "Food/Apple.md",
     "Food/Bread.md",
-    "Readme.md",
-    "Template/Object template.md",
     "Template",
     "Ризық.md",
     "Water.md",
