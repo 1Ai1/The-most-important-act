@@ -1,6 +1,5 @@
-Food class extends [[Ризық]]
-
-**Ingredients**: [[Water]], Active Dry [[Yeast]], Granulated [[Sugar]], [[Salt]], [[Oil]], [[Flour]]
+Category: [[1. Rizyq]]
+**Consis from**: [[Water]], Active Dry [[Yeast]], Granulated [[Sugar]], [[Salt]], [[Oil]], [[Flour]]
 
 
 ## Process
