@@ -1,10 +1,14 @@
+# Rizq types
+![[Maslow's hierarchy of needs.png]]
 
-Category types:
 
-1. Rizyq
-2. Wukir
-3. Wukir's component
-4. tada
-5. tada
-6. tada
+
+# Category
+
+
+![[circle graph.png|500]]
+1. Rizyq - Physiological needs  (10^1)
+2. Source - sources that gives us the Physiological needs product (like tree, animals, clouds etc.) (10^±2)
+3. Servant - servants of source (sun, microbs)(10^±4)
+4. Composite/container - atoms, galactics (quantum world, 10^±6 worlds)
 
